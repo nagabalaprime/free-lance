@@ -1,0 +1,11 @@
+.uploadFieldContainer {
+
+    display: flex;
+    padding: 10px 0px;
+    align-items: center;
+    margin-left: 20px;
+}
+
+.uploadFieldComponent {
+    margin-right:20px;
+}

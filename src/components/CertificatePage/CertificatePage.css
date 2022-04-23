@@ -1,0 +1,11 @@
+.certificate-page {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+
+.add-button {
+  display: flex;
+  cursor: pointer;
+  align-items: center;
+}

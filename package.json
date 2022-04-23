@@ -18,7 +18,24 @@
   "dependencies": {
     "prop-types": "^15.6.2",
     "react": "^16.4.1",
-    "react-dom": "^16.4.1"
+    "react-dom": "^16.4.1",
+    "@fluentui/react": "7.170.3",
+    "@fluentui/react-theme-provider": "0.18.5",
+    "@types/lodash": "4.14.151",
+    "@types/prop-types": "15.7.3",
+    "@types/react": "16.14.5",
+    "@types/react-dom": "16.9.12",
+    "@types/react-redux": "7.1.16",
+    "@uifabric/azure-themes": "7.7.30",
+    "csstype": "2.6.10",
+    "d3": "6.3.0",
+    "fast-xml-parser": "^3.19.0",
+    "lodash": "4.17.21",
+    "performance-polyfill": "0.0.3",
+    "react-redux": "7.2.3",
+    "realistic-structured-clone": "2.0.2",
+    "redux": "4.0.5",
+    "web-vitals": "2.0.1"
   },
   "devDependencies": {
     "babel-core": "^6.26.3",
